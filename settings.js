@@ -18,9 +18,9 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //new
 global.botname = 'cheemsBot MD V14' //ur bot name
 global.ownernumber = '22897669189' //ur owner number
-global.ownername = 'Raizen Linkid' //ur owner name
-global.websitex = "https://youtu.be/RT0-AMBVwJg"
-global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
+global.ownername = '༺⇴⦼𝐎𝐍𝐋𝐘 ⧉ 𝐁𝐋𝐀𝐂𝐊ↈ༻𝛭𝑅 𝐷𝛯𝛥𝑇𝛨 𝑅𝛩𝑌𝛥𝐿' //ur owner name
+global.websitex = "https://intagram.com/bwaby_6.0"
+global.wagc = "https://chat.whatsapp.com/HyXgf4N8XuWDkjrxr0Z282"
 global.themeemoji = '❄️'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/Gola223/CheemsBot-MD14' //script link
