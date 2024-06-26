@@ -16,14 +16,14 @@ global.socialm = "GitHub: Linkiddrak" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Darki Bot MD V14' //ur bot name
+global.botname = 'cheemsBot MD V14' //ur bot name
 global.ownernumber = '22897669189' //ur owner number
 global.ownername = 'Raizen Linkid' //ur owner name
 global.websitex = "https://youtu.be/RT0-AMBVwJg"
 global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
 global.themeemoji = '❄️'
 global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD14' //script link
+global.botscript = 'https://github.com/Gola223/CheemsBot-MD14' //script link
 global.packname = "Sticker By"
 global.author = "❄️Raizen"
 global.creator = "22897669189@s.whatsapp.net"
