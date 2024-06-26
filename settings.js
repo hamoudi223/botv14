@@ -17,7 +17,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = 'Darki Bot MD V14' //ur bot name
-global.ownernumber = '22871255034' //ur owner number
+global.ownernumber = '22897669189' //ur owner number
 global.ownername = 'Raizen Linkid' //ur owner name
 global.websitex = "https://youtu.be/RT0-AMBVwJg"
 global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
@@ -26,9 +26,9 @@ global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD14' //script link
 global.packname = "Sticker By"
 global.author = "❄️Raizen"
-global.creator = "22871255034@s.whatsapp.net"
+global.creator = "22897669189@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["22871255034"] // Premium User
+global.premium = ["22897669189"] // Premium User
 global.hituet = 0
 
 //bot sett
